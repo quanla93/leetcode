@@ -22,14 +22,17 @@ public class IsPalindrome {
     public boolean isPalindromeV2(String s) {
         if (Integer.parseInt(s) < 0 || s.isEmpty()) {
             return false;
-        } else {
+        }
             int i = 0;
             int j = s.length() - 1;
-            if (s.charAt(i) != s.charAt(j)) {
-                return true;
+            while (i < j) {
+                if (s.charAt(i) != s.charAt(j)) {
+                    return false;
+                }
+                i++;
+                j--;
             }
             return true;
-        }
     }
 
     public static void main(String[] args) {
@@ -38,7 +41,7 @@ public class IsPalindrome {
         System.out.println(isPalindrome.isPalindrome(-121));
         System.out.println(isPalindrome.isPalindrome(10));
 
-        System.out.println(isPalindrome.isPalindromeV2("-121"));
+        System.out.println(isPalindrome.isPalindromeV2("121"));
     }
 
 }
