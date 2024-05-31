@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd0e43f0-ce86-48a1-830b-387ff1158467" name="Changes" comment="Day3&#10;- topKFrequent&#10;Refs leetcode from quanla">
-      <change afterPath="$PROJECT_DIR$/src/day4/MajorityElement.java" afterDir="false" />
+    <list default="true" id="bd0e43f0-ce86-48a1-830b-387ff1158467" name="Changes" comment="Day5&#10;- isHappyNumber&#10;Refs leetcode from quanla">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,26 +82,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MajorityElement">
-    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.GroupAnagrams" />
+  <component name="RunManager" selected="Application.IsHappy">
+    <configuration name="ContainsNearbyDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.ContainsNearbyDuplicate" />
       <module name="_LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.IsAnagram" />
+    <configuration name="IsHappy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.IsHappy" />
       <module name="_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.*" />
+          <option name="PATTERN" value="day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,6 +116,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.MissingNumber" />
+      <module name="_LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TopKFrequent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day3.TopKFrequent" />
       <module name="_LeetCode" />
@@ -136,26 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="containsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.containsDuplicate" />
-      <module name="_LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsHappy" />
+        <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.ContainsNearbyDuplicate" />
         <item itemvalue="Application.MajorityElement" />
         <item itemvalue="Application.TopKFrequent" />
-        <item itemvalue="Application.GroupAnagrams" />
-        <item itemvalue="Application.IsAnagram" />
-        <item itemvalue="Application.containsDuplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +164,11 @@
       <workItem from="1715520339782" duration="4941000" />
       <workItem from="1715564174917" duration="10199000" />
       <workItem from="1715582998511" duration="6649000" />
-      <workItem from="1715781818203" duration="800000" />
+      <workItem from="1715781818203" duration="1578000" />
+      <workItem from="1715822870302" duration="1013000" />
+      <workItem from="1715830662552" duration="3473000" />
+      <workItem from="1715917370131" duration="1844000" />
+      <workItem from="1717140858841" duration="637000" />
     </task>
     <task id="LOCAL-00001" summary="Day1&#10;- Two sum&#10;- Palindrome&#10;- RomanToInt&#10;Refs leetcode from quanla">
       <option name="closed" value="true" />
@@ -221,7 +218,31 @@
       <option name="project" value="LOCAL" />
       <updated>1715590396704</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Day4&#10;- majorityElement&#10;Refs leetcode from quanla">
+      <option name="closed" value="true" />
+      <created>1715787688408</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715787688408</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Day5&#10;- containsNearbyDuplicate&#10;- missingNumber&#10;Refs leetcode from quanla">
+      <option name="closed" value="true" />
+      <created>1715834151306</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715834151306</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Day5&#10;- isHappyNumber&#10;Refs leetcode from quanla">
+      <option name="closed" value="true" />
+      <created>1717140882768</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717140882768</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +271,10 @@
     <MESSAGE value="Day3&#10;- isAnagram&#10;- containsDuplicate&#10;- IsValid&#10;Refs leetcode from quanla" />
     <MESSAGE value="Day3&#10;- groupAnagrams&#10;Refs leetcode from quanla" />
     <MESSAGE value="Day3&#10;- topKFrequent&#10;Refs leetcode from quanla" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day3&#10;- topKFrequent&#10;Refs leetcode from quanla" />
+    <MESSAGE value="Day4&#10;- majorityElement&#10;Refs leetcode from quanla" />
+    <MESSAGE value="Day5&#10;- containsNearbyDuplicate&#10;- missingNumber&#10;Refs leetcode from quanla" />
+    <MESSAGE value="Day5&#10;- isHappyNumber&#10;Refs leetcode from quanla" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day5&#10;- isHappyNumber&#10;Refs leetcode from quanla" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

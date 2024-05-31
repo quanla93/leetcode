@@ -1,6 +1,5 @@
-package day3;
+package arraysAndHashing;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;

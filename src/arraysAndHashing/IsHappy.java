@@ -1,4 +1,4 @@
-package day6;
+package arraysAndHashing;
 
 public class IsHappy {
 

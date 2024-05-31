@@ -1,8 +1,6 @@
-package day2;
+package arraysAndHashing;
 
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
 
 public class longestCommonPrefix {
 

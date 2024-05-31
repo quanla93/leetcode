@@ -1,6 +1,4 @@
-package day4;
-
-import java.util.Map;
+package arraysAndHashing;
 
 public class MajorityElement {
 
