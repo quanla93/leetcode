@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd0e43f0-ce86-48a1-830b-387ff1158467" name="Changes" comment="Update gitignore">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/daily/day_8_1_2025.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bd0e43f0-ce86-48a1-830b-387ff1158467" name="Changes" comment="[DAILY] 3042. Count Prefix and Suffix Pairs I&#10;Refs leetcode from quanla (8/1/2025)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +86,7 @@
       <recent name="arraysAndHashing" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day_8_1_2025">
+  <component name="RunManager" selected="Application.day_9_1_2025">
     <configuration name="day_1_1_2025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="daily.day_1_1_2025" />
       <module name="_LeetCode" />
@@ -132,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findDisappearedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndHashing.findDisappearedNumbers" />
+    <configuration name="day_9_1_2025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="daily.day_9_1_2025" />
       <module name="_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraysAndHashing.*" />
+          <option name="PATTERN" value="daily.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day_9_1_2025" />
         <item itemvalue="Application.day_8_1_2025" />
         <item itemvalue="Application.day_7_1_2025" />
         <item itemvalue="Application.day_1_1_2025" />
         <item itemvalue="Application.majorityElementV2" />
-        <item itemvalue="Application.findDisappearedNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +184,7 @@
       <workItem from="1717579436051" duration="2136000" />
       <workItem from="1736152123523" duration="6382000" />
       <workItem from="1736215230188" duration="4513000" />
-      <workItem from="1736302717582" duration="766000" />
+      <workItem from="1736302717582" duration="1087000" />
     </task>
     <task id="LOCAL-00001" summary="Day1&#10;- Two sum&#10;- Palindrome&#10;- RomanToInt&#10;Refs leetcode from quanla">
       <option name="closed" value="true" />
@@ -336,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736302777737</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="[DAILY] 3042. Count Prefix and Suffix Pairs I&#10;Refs leetcode from quanla (8/1/2025)">
+      <option name="closed" value="true" />
+      <created>1736303782791</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1736303782791</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,7 +379,8 @@
     <MESSAGE value="[DAILY] 1422. Maximum Score After Splitting a String&#10;Refs leetcode from quanla (1/1/2025)" />
     <MESSAGE value="[DAILY] 1408. String Matching in an Array&#10;Refs leetcode from quanla (7/1/2025)" />
     <MESSAGE value="Update gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update gitignore" />
+    <MESSAGE value="[DAILY] 3042. Count Prefix and Suffix Pairs I&#10;Refs leetcode from quanla (8/1/2025)" />
+    <option name="LAST_COMMIT_MESSAGE" value="[DAILY] 3042. Count Prefix and Suffix Pairs I&#10;Refs leetcode from quanla (8/1/2025)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
