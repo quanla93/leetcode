@@ -1,4 +1,4 @@
-package daily;
+package daily.january;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,7 +1,4 @@
-package daily;
-
-import java.util.ArrayList;
-import java.util.List;
+package daily.january;
 
 public class day_12_1_2025 {
 
