@@ -1,8 +1,6 @@
-package daily;
+package daily.january;
 
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.HashSet;
 
 public class day_1_1_2025 {
 

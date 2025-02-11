@@ -1,4 +1,4 @@
-package daily;
+package daily.january;
 
 public class day_11_1_2025 {
 
